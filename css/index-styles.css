@@ -1,0 +1,75 @@
+/***************Start of header styles ***********/
+.header{
+  margin: 20px 30px 10px 30px;
+}
+
+.logo{
+  background-color: black;
+  height:100px;
+}
+
+.link-row{
+  background-color:green;
+}
+
+.link-first{
+    background-color: black;
+    height:40px;
+    margin-top:30px;
+    margin-right: 35px;
+    margin-left:115px;
+}
+
+.link{
+    background-color: black;
+    height:40px;
+    margin-top:30px;
+    margin-right: 35px;
+}
+
+.link-last{
+    background-color: black;
+    height:40px;
+    margin-top:30px;
+
+}
+/***************End of header styles ***********/
+
+/***************Start of content styles ***********/
+.spacing{
+    margin: 30px 30px 10px 30px;
+}
+.content{
+  background-color: black;
+  height:500px;
+}
+/***************End of content styles ***********/
+
+/***************Start of content-separator styles ***********/
+.spacing{
+    margin: 30px 30px 10px 30px;
+}
+.below-content{
+  margin-top: 30px;
+  background-color: black;
+  height:40px;
+}
+/***************End of content-separator styles ***********/
+
+/***************Start of sub-content and aside styles ***********/
+.spacing-last{
+    margin: 80px 30px 10px 30px;
+}
+.sub-content{
+  background-color: black;
+  height:300px;
+}
+
+.aside-row{
+  background-color: black;
+  height: 300px;
+}
+.aside{
+  height:300px;
+}
+/***************End of sub-content and aside styles ***********/
